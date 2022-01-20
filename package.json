@@ -1,0 +1,24 @@
+{
+  "name": "webscrapingrocketseat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsr2k2/webscrapingRocketseat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wsr2k2/webscrapingRocketseat/issues"
+  },
+  "homepage": "https://github.com/wsr2k2/webscrapingRocketseat#readme",
+  "dependencies": {
+    "node": "^17.3.1",
+    "puppeteer": "^13.1.1"
+  }
+}
